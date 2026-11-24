@@ -1,4 +1,6 @@
 <Solution>
+  <Project Path="MergeTwoSortedLists/MergeTwoSortedLists.csproj" />
+  <Project Path="PlusOne/PlusOne.csproj" />
   <Project Path="TwoSum/TwoSum.csproj" />
   <Project Path="ValidParentheses/ValidParentheses.csproj" />
 </Solution>

@@ -1,6 +1,7 @@
 <Solution>
   <Project Path="ClimbingStairs/ClimbingStairs.csproj" />
   <Project Path="MergeTwoSortedLists/MergeTwoSortedLists.csproj" />
+  <Project Path="Numbersof1Bits/Numbersof1Bits.csproj" />
   <Project Path="PlusOne/PlusOne.csproj" />
   <Project Path="TwoSum/TwoSum.csproj" />
   <Project Path="ValidParentheses/ValidParentheses.csproj" />
